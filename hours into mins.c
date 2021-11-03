@@ -1,13 +1,12 @@
-/*minutes into hours*/
+/*Hours into minutes*/
 #include<stdio.h>
 void main()
-{ 
-int m,h,r;
-
- m=100;
- h= m/60;
- r=m%60;
+{
+ int m,h,r,l;
+ h=9;
+ m=h*60;
+ l=m+r;
  
-printf("%d hours,%d mins",h,r);
+printf("%d minutes",l);
 	
 }
