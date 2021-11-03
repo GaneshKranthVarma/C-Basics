@@ -1,3 +1,4 @@
+/*Area of circle*/
 #include<stdio.h>
 void main()
 { int r,a;
