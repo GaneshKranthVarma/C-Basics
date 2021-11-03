@@ -1,4 +1,4 @@
-/*Hours into minutes*/
+/*minutes into hours*/
 #include<stdio.h>
 void main()
 { 
