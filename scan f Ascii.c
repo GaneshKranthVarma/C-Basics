@@ -1,3 +1,4 @@
+/* scanf ASCII */
 #include<stdio.h>
 void main()
 {
