@@ -1,3 +1,4 @@
+/* Scanf multi input */
 #include<stdio.h>
 void main()
 {
