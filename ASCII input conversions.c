@@ -1,3 +1,4 @@
+/* ASCII input conversions */
 #include<stdio.h>
 void main()
 {
