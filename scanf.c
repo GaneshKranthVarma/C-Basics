@@ -1,3 +1,4 @@
+/* Scanf */
 #include<stdio.h>
 void main()
 {
